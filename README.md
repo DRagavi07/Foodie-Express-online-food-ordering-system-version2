@@ -94,6 +94,6 @@ This project was developed as a learning experience to improve Python programmin
 ## 👩‍💻 Developer
 **Ragavi D**
 
-BCA Student | Aspiring Data Analyst
+BCA Student 
 
 
